@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    background-color: pink;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.navbar{
+    color: blue;
+    background-color: darkgreen;
+    position: relative;
+    margin: 0px;
+}
+
+.navlinks{
+    color:white;
+    display: inline;
+}
